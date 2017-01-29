@@ -44,4 +44,4 @@ Story ID	Anforderung	P	SP	User Story	Akzeptanzkriterien	Implementiert	Version
 12	Lehrer-Funktionen						
 12.1	Noten eintragen	26	20	Ich als Lehrperson kann Prüfungen und die entsprechenden Noten für alle Schüler meiner Klasse eintragen.	Die Noten werden jeweils nur den entsprecheden Schüler angezeigt und in dessen Notenraporte eingetragen		
 13	Import-Funktionen						
-13.1	Angaben importieren	27	25	Ich als Benutzer kann eine Istitution für welche ein Inport zur Verfügung steht duch die Angabe von Institution, Klasse und Schuljahr Daten importieren lassen. Dazu zählen Semester, Fächer, Lehrkräfte und Stundenpläne	Die entsprechenden Daten werden in der Datenbank (User bezogen) gespeichert.					
+13.1	Angaben importieren	27	25	Ich als Benutzer kann eine Istitution für welche ein Inport zur Verfügung steht duch die Angabe von Institution, Klasse und Schuljahr Daten importieren lassen. Dazu zählen Semester, Fächer, Lehrkräfte und Stundenpläne	Die entsprechenden Daten werden in der Datenbank (User bezogen) gespeichert.
