@@ -2,7 +2,6 @@ Story ID;Anforderung;P;SP;User Story;Akzeptanzkriterien;Implementiert;Version
 0;Grundanforderungen;;;;;;
 0.1;Responsive Webinterface;;-;Als Benutzer kann ich unabhängig von meinem Gerät (OS) die Applikation via Browser bedienen;Die Applikation kann über eine Url aufgerufen werden. Die Webseite muss sowohl am PC als auch auf dem Smartphone angenehm bedienbar sein;Ja;1.0.0
 0.3;Login;;4;Ich als Benutzer kann mich am System anmelden;Ein User der registriert aber nicht angemeldet ist kann sich nach dem Starten der Applikation einlogen. Nach dem erfolgreichen Login wird eine Übersicht der erfassten Lektionen und Aufgaben angezeigt;Teilweise;1.0.0
-0.4;Persistenz der Daten;;-;Ich als Benutzer habe unabhängig von Zeitpunkt und Gerät Zugang zu meinen Daten;Diese Anfoerderung betrifft alle Akzeptanzkriterien. Die Daten müssen nach dem Logout erhalten bleiben. Es gibt jedoch keine Vorgaben für die Verfügbarkeit des Systems, da der Betrieb nicht Teil dieses Projektes ist;Ja;1.0.0
 0.5;CRUD Grundsatz;;-;Ich als Benutzer kann sämtliche Daten die ich erfasse auch editieren und löschen;Diese Anfoerderung betrifft alle Akzeptanzkriterien. Jede vom User erfasste Entität muss bearbeitbar und löschbar sein;Teilweise;1.0.0
 1;Institutionen;;;;;;
 1.1;Institutionen erstellen;1;8;Ich als Benutzer kann eine Institution (Schule) IET-GIBB erstellen;Die Schule IET GIBB wird in der Datenbank gespeichert;Ja;1.0.0
