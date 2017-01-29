@@ -1,4 +1,4 @@
-﻿Story ID;Anforderung;P;SP;User Story;Akzeptanzkriterien;Implementiert;Version
+Story ID;Anforderung;P;SP;User Story;Akzeptanzkriterien;Implementiert;Version
 0;Grundanforderungen;;;;;;
 0.1;Responsive Webinterface;;-;Als Benutzer kann ich unabhängig von meinem Gerät (OS) die Applikation via Browser bedienen;Die Applikation kann über eine Url aufgerufen werden. Die Webseite muss sowohl am PC als auch auf dem Smartphone angenehm bedienbar sein;Ja;1.0.0
 0.2;Registrierung;;4;Als Benutzer kann ich mich beim Start der Applikation registrieren;Beim Start der Applikation wird der nicht authentifizierte User auf eine Seite weitergeleitet auf der er sich registrieren oder anmelden kann. Nachdem der User das Registrierungsformular abgesendet hat, sind seine Daten in der Datenbank gespeichert und der User ist angemeldet;Ja;1.0.0
